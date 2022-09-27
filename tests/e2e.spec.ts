@@ -1,6 +1,7 @@
 import { test, expect } from '@playwright/test';
 import { loginPage } from '../pages/login.page';
 import { secrets } from '../fixtures/secrets.fixture';
+
 test.beforeEach(async ({ page }, testInfo) => {
   let sec = new secrets();
   const loginpage = new loginPage(page);
@@ -8,8 +9,8 @@ test.beforeEach(async ({ page }, testInfo) => {
   await loginpage.login(sec.username, sec.password);
 });
 
-test.describe('Validação do processo', () => {
-  test('Login Sajadm', async ({ page }) => {
+test.describe('Criar e validar processo', () => {
+  test('Acessar a pagina e criar o processo', async ({ page }) => {
     
   })
 });
