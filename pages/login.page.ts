@@ -25,6 +25,6 @@ export class loginPage {
         await this.btnEntrar.click();
         //checkpoint
         await expect(this.page.frameLocator('[aria-label="cabeçalho"]').locator('#countNotificacoes')).toBeVisible();
-             
+            
     }
 }
