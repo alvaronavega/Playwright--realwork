@@ -1,0 +1,75 @@
+{
+  "cookies": [
+    {
+      "name": "JSESSIONID",
+      "value": "9AEF06B857D4FF1C8C921F220AE737F2",
+      "domain": "tjsp-itg.ungp.softplan.com.br",
+      "path": "/ctn-backend",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "9D840975CAA61F90134940F5CD71AA66.sup-sup-int-portal-1",
+      "domain": "tjsp-itg.ungp.softplan.com.br",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.5.1190985116.1666036847",
+      "domain": ".tjsp-itg.ungp.softplan.com.br",
+      "path": "/",
+      "expires": 1700596850.150664,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.5.64177568.1666036847",
+      "domain": ".tjsp-itg.ungp.softplan.com.br",
+      "path": "/",
+      "expires": 1666123250,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat",
+      "value": "1",
+      "domain": ".tjsp-itg.ungp.softplan.com.br",
+      "path": "/",
+      "expires": 1666036906,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SPJSSOID",
+      "value": "SAJADM",
+      "domain": "tjsp-itg.ungp.softplan.com.br",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "skinCss",
+      "value": "tjsp",
+      "domain": "tjsp-itg.ungp.softplan.com.br",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
